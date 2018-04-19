@@ -148,7 +148,21 @@ The primary color
 should also be incorporated into
 the rest of the project name somehow.
 
-.. todo:: Add an example from a project.
+As an example, consider the Nengo DL logo.
+
+.. image:: nengo_dl/full-light.svg
+   :width: 100%
+   :align: center
+
+The main difference here is the color of the
+curves making up the N,
+and the additional DL text,
+which also uses the primary color, orange.
+Orange was chosen
+as the primary color for Nengo DL
+because it makes heavy use of TensorFlow,
+which uses orange in its logo
+and other branding material.
 
 .. todo:: Be explicit about opacity values.
           This will have to be played around with
