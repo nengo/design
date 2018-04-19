@@ -61,3 +61,13 @@ Recommended favicon.
 
 .. image:: favicon.ico
    :alt: Nengo ecosystem favicon.
+
+Other assets
+============
+
+Eye-catcher from the `Nengo paper
+<https://www.frontiersin.org/articles/10.3389/fninf.2013.00048/full>`_.
+
+.. image:: nef-summary.svg
+   :width: 100%
+   :alt: Eye-catcher from the Nengo paper
