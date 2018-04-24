@@ -38,8 +38,8 @@ For dark backgrounds.
    :class: dark
    :alt: Square Nengo DL logo for dark backgrounds
 
-Favicon
-=======
+Nengo DL Favicon
+================
 
 .. image:: favicon.ico
    :alt: Nengo DL favicon.

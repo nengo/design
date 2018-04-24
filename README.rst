@@ -13,3 +13,4 @@ and instructions for creating new assets.
    guidelines
    general/README
    nengo_dl/README
+   nengo_spa/README
