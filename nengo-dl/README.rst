@@ -6,6 +6,8 @@ When using an image to refer to Nengo DL,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
 
+Nengo DL uses #ff6600 as the primary color.
+
 Full Nengo DL logo
 ==================
 

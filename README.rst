@@ -12,5 +12,9 @@ and instructions for creating new assets.
 
    guidelines
    general/README
-   nengo_dl/README
-   nengo_spa/README
+   nengo-braindrop/README
+   nengo-dl/README
+   nengo-fpga/README
+   nengo-loihi/README
+   nengo-spa/README
+   nengo-spinnaker/README

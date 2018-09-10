@@ -14,7 +14,9 @@ extensions = [
 
 # -- sphinx
 nitpicky = True
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "README.rst"]
+exclude_patterns = [
+    "_build", "Thumbs.db", ".DS_Store", "README.rst", "fonts/README.rst"
+]
 source_suffix = ".rst"
 source_encoding = "utf-8"
 master_doc = "index"

@@ -5,8 +5,8 @@ Assets for Nengo SPA
 When using an image to refer to Nengo SPA,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
-The font used for the ``SPA`` logo segment is `Roboto
-<https://fonts.google.com/specimen/Roboto>`_.
+
+Nengo SPA uses #d40000 as the primary color.
 
 Full Nengo SPA logo
 ===================
