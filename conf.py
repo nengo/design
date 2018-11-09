@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
 from datetime import datetime
-
-import guzzle_sphinx_theme
+import os
 
 extensions = [
     "sphinx.ext.autosectionlabel",
@@ -10,40 +9,40 @@ extensions = [
     "sphinx.ext.intersphinx",
     "sphinx.ext.mathjax",
     "sphinx.ext.todo",
-    "guzzle_sphinx_theme",
+    "nengo_sphinx_theme",
 ]
 
-source_suffix = ".rst"
-master_doc = "index"
+# -- sphinx
+nitpicky = True
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "README.rst"]
-
+source_suffix = ".rst"
+source_encoding = "utf-8"
+master_doc = "index"
 project = "Nengo design"
-copyright = "2017, Applied Brain Research"
+copyright = "2017-2018, Applied Brain Research"
 author = "Applied Brain Research"
 version = release = datetime.now().strftime("%Y-%m-%d")
-language = None
 
+# -- sphinx.ext.todo
 todo_include_todos = True
 
 intersphinx_mapping = {
     "nengo": ("https://www.nengo.ai/", None)
 }
 
-# HTML theming
-pygments_style = "sphinx"
-templates_path = ["_templates"]
+# -- nengo_sphinx_theme
+html_theme = "nengo_sphinx_theme"
+pygments_style = "friendly"
+templates_path = []
 html_favicon = "general/favicon.ico"
 html_static_path = ["_static"]
-
-html_theme_path = guzzle_sphinx_theme.html_theme_path()
-html_theme = "guzzle_sphinx_theme"
-
-html_theme_options = {
-    "project_nav_name": "Nengo design",
-    "base_url": "https://www.nengo.ai/design",
+html_logo = os.path.join("_static", "logo.svg")
+html_sidebars = {"**": ["sidebar.html"]}
+html_context = {
+    "css_files": [os.path.join("_static", "custom.css")],
 }
 
-# Other builders
+# -- other
 htmlhelp_basename = "Nengo design"
 
 latex_elements = {
