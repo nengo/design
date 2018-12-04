@@ -74,3 +74,11 @@ texinfo_documents = [
      "Design assets for Nengo",  # description
      "Miscellaneous"),  # category
 ]
+
+
+def setup(app):
+    def modify_filenames(_, env):
+        for source, (parents, _) in env.images.items():
+            env.images[source] = (parents, "-".join(os.path.split(source)))
+
+    app.connect("env-updated", modify_filenames)
