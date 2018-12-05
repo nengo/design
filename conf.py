@@ -39,10 +39,6 @@ templates_path = []
 html_favicon = "general/favicon.ico"
 html_static_path = ["_static"]
 html_logo = os.path.join("_static", "logo.svg")
-html_sidebars = {"**": ["sidebar.html"]}
-html_context = {
-    "css_files": [os.path.join("_static", "custom.css")],
-}
 
 # -- other
 htmlhelp_basename = "Nengo design"
@@ -84,3 +80,4 @@ def setup(app):
             env.images[source] = (parents, "-".join(os.path.split(source)))
 
     app.connect("env-updated", modify_filenames)
+    app.add_stylesheet("custom.css")
