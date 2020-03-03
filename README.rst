@@ -16,5 +16,6 @@ and instructions for creating new assets.
    nengo-dl/README
    nengo-fpga/README
    nengo-loihi/README
+   nengo-ocl/README
    nengo-spa/README
    nengo-spinnaker/README
