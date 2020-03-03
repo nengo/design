@@ -21,7 +21,7 @@ source_suffix = ".rst"
 source_encoding = "utf-8"
 master_doc = "index"
 project = "Nengo design"
-copyright = "2017-2018, Applied Brain Research"
+copyright = "2017-2020, Applied Brain Research"
 author = "Applied Brain Research"
 version = release = datetime.now().strftime("%Y-%m-%d")
 
@@ -29,7 +29,7 @@ version = release = datetime.now().strftime("%Y-%m-%d")
 todo_include_todos = True
 
 intersphinx_mapping = {
-    "nengo": ("https://www.nengo.ai/", None)
+    "nengo": ("https://www.nengo.ai/nengo", None)
 }
 
 # -- nengo_sphinx_theme
