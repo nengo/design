@@ -6,7 +6,7 @@ When using an image to refer to Nengo OCL,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
 
-Nengo OCL uses #beb419 as the primary color.
+Nengo OCL uses #69c530 as the primary color.
 
 Full Nengo OCL logo
 ===================
