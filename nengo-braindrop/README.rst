@@ -1,47 +1,47 @@
-**************************
-Assets for Nengo Braindrop
-**************************
+*************************
+Assets for NengoBraindrop
+*************************
 
-When using an image to refer to Nengo Braindrop,
+When using an image to refer to NengoBraindrop,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
 
-Nengo Braindrop uses #00a86a as the primary color.
+NengoBraindrop uses #00a86a as the primary color.
 
-Full Nengo Braindrop logo
-=========================
+Full NengoBraindrop logo
+========================
 
 For light backgrounds.
 
 .. image:: full-light.svg
    :width: 100%
-   :alt: Full Nengo Braindrop logo for light backgrounds
+   :alt: Full NengoBraindrop logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: full-dark.svg
    :width: 100%
    :class: dark
-   :alt: Full Nengo Braindrop logo for dark backgrounds
+   :alt: Full NengoBraindrop logo for dark backgrounds
 
-Square Nengo Braindrop logo
-===========================
+Square NengoBraindrop logo
+==========================
 
 For light backgrounds.
 
 .. image:: square-light.svg
    :width: 250
-   :alt: Square Nengo Braindrop logo for light backgrounds
+   :alt: Square NengoBraindrop logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: square-dark.svg
    :width: 250
    :class: dark
-   :alt: Square Nengo Braindrop logo for dark backgrounds
+   :alt: Square NengoBraindrop logo for dark backgrounds
 
-Nengo Braindrop Favicon
-=======================
+NengoBraindrop Favicon
+======================
 
 .. image:: favicon.ico
-   :alt: Nengo Braindrop favicon.
+   :alt: NengoBraindrop favicon.

@@ -1,47 +1,47 @@
-********************
-Assets for Nengo OCL
-********************
+*******************
+Assets for NengoOCL
+*******************
 
-When using an image to refer to Nengo OCL,
+When using an image to refer to NengoOCL,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
 
-Nengo OCL uses #69c530 as the primary color.
+NengoOCL uses #69c530 as the primary color.
 
-Full Nengo OCL logo
-===================
+Full NengoOCL logo
+==================
 
 For light backgrounds.
 
 .. image:: full-light.svg
    :width: 100%
-   :alt: Full Nengo OCL logo for light backgrounds
+   :alt: Full NengoOCL logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: full-dark.svg
    :width: 100%
    :class: dark
-   :alt: Full Nengo OCL logo for dark backgrounds
+   :alt: Full NengoOCL logo for dark backgrounds
 
-Square Nengo OCL logo
-=====================
+Square NengoOCL logo
+====================
 
 For light backgrounds.
 
 .. image:: square-light.svg
    :width: 250
-   :alt: Square Nengo OCL logo for light backgrounds
+   :alt: Square NengoOCL logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: square-dark.svg
    :width: 250
    :class: dark
-   :alt: Square Nengo OCL logo for dark backgrounds
+   :alt: Square NengoOCL logo for dark backgrounds
 
-Nengo OCL Favicon
-=================
+NengoOCL Favicon
+================
 
 .. image:: favicon.ico
-   :alt: Nengo OCL favicon.
+   :alt: NengoOCL favicon.

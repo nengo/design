@@ -1,47 +1,47 @@
-*******************
-Assets for Nengo DL
-*******************
+******************
+Assets for NengoDL
+******************
 
-When using an image to refer to Nengo DL,
+When using an image to refer to NengoDL,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
 
-Nengo DL uses #ff6600 as the primary color.
+NengoDL uses #ff6600 as the primary color.
 
-Full Nengo DL logo
-==================
+Full NengoDL logo
+=================
 
 For light backgrounds.
 
 .. image:: full-light.svg
    :width: 100%
-   :alt: Full Nengo DL logo for light backgrounds
+   :alt: Full NengoDL logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: full-dark.svg
    :width: 100%
    :class: dark
-   :alt: Full Nengo DL logo for dark backgrounds
+   :alt: Full NengoDL logo for dark backgrounds
 
-Square Nengo DL logo
-====================
+Square NengoDL logo
+===================
 
 For light backgrounds.
 
 .. image:: square-light.svg
    :width: 250
-   :alt: Square Nengo DL logo for light backgrounds
+   :alt: Square NengoDL logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: square-dark.svg
    :width: 250
    :class: dark
-   :alt: Square Nengo DL logo for dark backgrounds
+   :alt: Square NengoDL logo for dark backgrounds
 
-Nengo DL Favicon
-================
+NengoDL Favicon
+===============
 
 .. image:: favicon.ico
-   :alt: Nengo DL favicon.
+   :alt: NengoDL favicon.

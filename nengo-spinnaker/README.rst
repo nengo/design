@@ -1,47 +1,47 @@
-**************************
-Assets for Nengo SpiNNaker
-**************************
+*************************
+Assets for NengoSpiNNaker
+*************************
 
-When using an image to refer to Nengo SpiNNaker,
+When using an image to refer to NengoSpiNNaker,
 use the following assets in accordance with the
 :ref:`guidelines <Nengo branding guidelines>`.
 
-Nengo SpiNNaker uses #00c0de as the primary color.
+NengoSpiNNaker uses #00c0de as the primary color.
 
-Full Nengo SpiNNaker logo
-=========================
+Full NengoSpiNNaker logo
+========================
 
 For light backgrounds.
 
 .. image:: full-light.svg
    :width: 100%
-   :alt: Full Nengo SpiNNaker logo for light backgrounds
+   :alt: Full NengoSpiNNaker logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: full-dark.svg
    :width: 100%
    :class: dark
-   :alt: Full Nengo SpiNNaker logo for dark backgrounds
+   :alt: Full NengoSpiNNaker logo for dark backgrounds
 
-Square Nengo SpiNNaker logo
-===========================
+Square NengoSpiNNaker logo
+==========================
 
 For light backgrounds.
 
 .. image:: square-light.svg
    :width: 250
-   :alt: Square Nengo SpiNNaker logo for light backgrounds
+   :alt: Square NengoSpiNNaker logo for light backgrounds
 
 For dark backgrounds.
 
 .. image:: square-dark.svg
    :width: 250
    :class: dark
-   :alt: Square Nengo SpiNNaker logo for dark backgrounds
+   :alt: Square NengoSpiNNaker logo for dark backgrounds
 
-Nengo SpiNNaker Favicon
-=======================
+NengoSpiNNaker Favicon
+======================
 
 .. image:: favicon.ico
-   :alt: Nengo SpiNNaker favicon.
+   :alt: NengoSpiNNaker favicon.

@@ -135,7 +135,7 @@ Colors
 
 Every project chooses a unique primary color.
 The unique part of the project name
-(e.g., the "DL" in "Nengo DL")
+(e.g., the "DL" in "NengoDL")
 is colored with this primary color.
 
 The top colored curve in the N
