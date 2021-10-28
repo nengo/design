@@ -186,6 +186,12 @@ Other aspects of the text,
 such as the spacing between letters,
 should also match the "Nengo" text
 as best as possible.
+A good place to start is placing the textbox
+at (262.5, 1) and using a font size of 260pt
+with the space between letters set to -20px.
+In Inkscape, there is an input box in the top bar
+to adjust spacing between letter once text is selected.
+Make any micro-adjustments from here as needed.
 
 Once the text looks natural,
 it is converted from an SVG text object to a path,
@@ -222,10 +228,10 @@ in the previous two sections:
    even if they are outside of the normal viewport.
 4. There should be no transparent elements in the SVG.
    These do not always render the same on all devices.
-5. The SVG document should have small margins
+5. The SVG document should have 1mm margins
    around the content. In Inkscape, this is done
    in the Document Properties window (Shift + Ctrl + D).
    Expand the "Resize page to content..." section
    and include the same small margin on all four sides.
-6. Favicons should be 32x32 and created
+6. Favicons should be 48x48 and created
    from the square-light logo.
