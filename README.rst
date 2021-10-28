@@ -14,6 +14,7 @@ and instructions for creating new assets.
    general/README
    nengo-braindrop/README
    nengo-dl/README
+   nengo-edge/README
    nengo-fpga/README
    nengo-loihi/README
    nengo-ocl/README
